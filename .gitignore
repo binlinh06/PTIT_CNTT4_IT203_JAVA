@@ -1,0 +1,31 @@
+####################################
+# IGNORE EVERYTHING
+####################################
+*
+
+####################################
+# ALLOW SRC STRUCTURE
+####################################
+!src/
+!src/main/
+!src/main/java/
+
+####################################
+# ALLOW YOUR PACKAGE (SỬA CHO ĐÚNG)
+####################################
+!src/main/java/com/
+!src/main/java/com/example/
+!src/main/java/com/example/mypackage/
+!src/main/java/com/example/mypackage/**
+
+####################################
+# IDE & BUILD (PHÒNG TRƯỜNG HỢP)
+####################################
+.idea/
+out/
+target/
+bin/
+*.iml
+.kotlin
+.vscode/
+.DS_Store
