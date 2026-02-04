@@ -1,4 +1,4 @@
-package SESSION08;
+package SESSION08.miniproject;
 
 import java.util.Scanner;
 

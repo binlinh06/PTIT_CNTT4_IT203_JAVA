@@ -1,4 +1,4 @@
-package SESSION08;
+package SESSION08.miniproject;
 
 
 public class Student {
